@@ -1,0 +1,1 @@
+Esta carpeta esta construida a base de ejercucios de programacion  competitiva de la plataforma Codeforces, los ejercicio estan dados por la hoja de calculo de google https://docs.google.com/spreadsheets/d/1iSbS_Xw2N19Mq09kYEaCVfJW5W2OJ5vJzWfX1R95k_4/edit?usp=sharing
